@@ -8,4 +8,4 @@ I build agent tooling and Linux desktop widgets.
 
 **Before:** iPhone games in Objective-C, back in the Cocos2d days
 
-📍 Egypt
+📍 Egypt · 𝕏 [@salemsayed](https://x.com/salemsayed)
