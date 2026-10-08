@@ -1,11 +1,26 @@
-### Hi, I'm Salem 👋
+### Hi, I’m Salem 👋
 
-I build agent tooling and Linux desktop widgets.
+I’m an AI driver. I turn ideas into useful tools.
 
-**Now:** a family of [Omarchy](https://omarchy.org) bar widgets — [omaprayers](https://github.com/salemsayed/omaprayers) (prayer times), [omaonedrive](https://github.com/salemsayed/omaonedrive) (OneDrive sync), [omawarden](https://github.com/salemsayed/omawarden) (Bitwarden), [omaherd](https://github.com/salemsayed/omaherd) (your coding agents, in the bar), [omatender](https://github.com/salemsayed/omatender) (tucks the others away) — plus BB plugins [Advisor](https://github.com/salemsayed/bb-plugin-advisor) and [Omarchy Sync](https://github.com/salemsayed/bb-plugin-omarchy) (both on the marketplace), [Thread Focus](https://github.com/salemsayed/bb-plugin-thread-focus) (a thread-first sidebar), and [orchestrated-workflow-skill](https://github.com/salemsayed/orchestrated-workflow-skill) (Pi agent orchestration)
+**Selected projects**
 
-**Contributing to:** [chuchu](https://github.com/jossephus/chuchu) (native Android SSH client on libghostty) · [bb](https://github.com/get-bb/bb) (the agent IDE that builds itself) · [hylki](https://github.com/hyprlab/hylki) · [noctalia community-plugins](https://github.com/noctalia-dev/community-plugins) · [strata](https://github.com/lgse/strata) · [Radar Sidebar](https://github.com/MacHatter1/bb-plugin-radar-sidebar) · [cap-downloader](https://github.com/bricks-soft/cap-downloader) · [tinyagi](https://github.com/TinyAGI/tinyagi) · [pi-teams](https://github.com/burggraf/pi-teams) · [pi-subagents](https://github.com/nicobailon/pi-subagents) · [pi-blackhole](https://github.com/k0valik/pi-blackhole) · [pi-task](https://github.com/heyhuynhgiabuu/pi-task) · [pi-topping](https://github.com/underactive/pi-topping) · [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) · [CodexBar](https://github.com/steipete/CodexBar) · [omarchy-tesla](https://github.com/jankeesvw/omarchy-tesla) · [omapager](https://github.com/ryanrhughes/omapager) · [BB marketplace](https://github.com/get-bb/marketplace) · [awesome-bb-plugins](https://github.com/MGrin/awesome-bb-plugins) (merged PRs and landed changes). Open PRs in [chuchu](https://github.com/jossephus/chuchu), [omarchy](https://github.com/omacom/omarchy) and [omarchy-marvin](https://github.com/adamperlis/omarchy-marvin). Earlier proposals in [pi-bash-live-view](https://github.com/lucasmeijer/pi-bash-live-view) · [pi-agentic-compaction](https://github.com/laulauland/pi-agentic-compaction) · [hermes-agent](https://github.com/NousResearch/hermes-agent) · [pi-prompt-template-model](https://github.com/nicobailon/pi-prompt-template-model) · [omarchy-todoist](https://github.com/Aryan-Techie/omarchy-todoist) (closed, unmerged PRs)
+- [Omaherd](https://github.com/salemsayed/omaherd): Coding-agent status in the Omarchy bar. An inbox for local and remote HerdR sessions, with notifications when attention is needed and quick access to the right terminal pane.
+- [Omatender](https://github.com/salemsayed/omatender): A quieter Omarchy bar. A widget manager that tucks things away and brings them back when their status changes.
+- [OmaPrayers](https://github.com/salemsayed/omaprayers): Prayer times without a browser tab. An Arabic/English widget with offline calculations, a daily timetable, and optional reminders.
+- [Advisor](https://github.com/salemsayed/bb-plugin-advisor): Independent review for bb coding threads. A port of oh-my-pi’s advisor design, with persistent findings and rechecks.
 
-**Before:** iPhone games in Objective-C, back in the Cocos2d days — [iTarneeb](https://github.com/salemsayed/iTarneeb) and [Connect4-iPhone](https://github.com/salemsayed/Connect4-iPhone) — plus [Connect4-GLUT](https://github.com/salemsayed/Connect4-GLUT) and [Advanced-Media-Lab-](https://github.com/salemsayed/Advanced-Media-Lab-)
+**Selected contributions**
+
+- [Chuchu](https://github.com/jossephus/chuchu) · Encrypted SSH backups, Android local shells, tmux sessions, terminal tabs and input, Mosh recovery, and host-key verification.
+- [bb](https://github.com/get-bb/bb) · Linux desktop support, packaged browser automation, iPad keyboard and iOS touch fixes, and Android clipboard images.
+- [Radar Sidebar](https://github.com/MacHatter1/bb-plugin-radar-sidebar) · Navigation rails, touch and trackpad swipe actions, readable thread titles, and keyboard navigation fixes.
+- [Strata](https://github.com/lgse/strata) · Native file previews, save-dialog suggestions, updates, and desktop integration fixes.
+- [Hylki](https://github.com/hyprlab/hylki) · Stalled IMAP recovery and faster message loading during background sync.
+
+Also contributed [Noctalia widgets](https://github.com/noctalia-dev/community-plugins/pull/243), [iOS background downloads](https://github.com/bricks-soft/cap-downloader/pull/2), and [Pi agent tooling](https://github.com/burggraf/pi-teams/pull/7).
+
+**More projects**
+
+[OneDrive sync](https://github.com/salemsayed/omaonedrive) · [Bitwarden widget](https://github.com/salemsayed/omawarden) · [Omarchy theme sync for bb](https://github.com/salemsayed/bb-plugin-omarchy)
 
 📍 Egypt · 𝕏 [@salemsayed](https://x.com/salemsayed)
