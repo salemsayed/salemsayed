@@ -17,7 +17,7 @@ I’m an AI driver. I turn ideas into useful tools.
 - [Strata](https://github.com/lgse/strata) · Native file previews, save-dialog suggestions, updates, and desktop integration fixes.
 - [Hylki](https://github.com/hyprlab/hylki) · Stalled IMAP recovery and faster message loading during background sync.
 
-Also contributed [Noctalia widgets](https://github.com/noctalia-dev/community-plugins/pull/243), [iOS background downloads](https://github.com/bricks-soft/cap-downloader/pull/2), and [Pi agent tooling](https://github.com/burggraf/pi-teams/pull/7).
+Also contributed [Noctalia widgets](https://github.com/noctalia-dev/community-plugins/pull/243), [iOS background downloads](https://github.com/bricks-soft/cap-downloader/pull/2), [Pi agent tooling](https://github.com/burggraf/pi-teams/pull/7), and [mobile swipe controls for Composer Predictions](https://github.com/MacHatter1/bb-plugin-composer-predictions/pull/6).
 
 **More projects**
 
