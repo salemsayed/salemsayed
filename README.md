@@ -12,7 +12,7 @@ I’m an AI driver. I turn ideas into useful tools.
 **Selected contributions**
 
 - [Chuchu](https://github.com/jossephus/chuchu) · Encrypted SSH backups, Android local shells, tmux sessions, terminal tabs and input, Mosh recovery, and host-key verification.
-- [bb](https://github.com/get-bb/bb) · Linux desktop support, packaged browser automation, iPad keyboard and iOS touch fixes, and Android clipboard images.
+- [bb](https://github.com/get-bb/bb) · Linux desktop support, packaged browser automation, iPad keyboard and iOS touch fixes, Android clipboard images, and stranded-machine removal.
 - [Radar Sidebar](https://github.com/MacHatter1/bb-plugin-radar-sidebar) · Navigation rails, touch and trackpad swipe actions, readable thread titles, and keyboard navigation fixes.
 - [Strata](https://github.com/lgse/strata) · Native file previews, save-dialog suggestions, updates, and desktop integration fixes.
 - [Hylki](https://github.com/hyprlab/hylki) · Stalled IMAP recovery and faster message loading during background sync.
