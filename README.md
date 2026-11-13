@@ -1,26 +1,38 @@
-### Hi, I’m Salem 👋
+### Hi, I'm Salem
 
-I’m an AI driver. I turn ideas into useful tools.
+I build agent tooling and Linux desktop widgets, mostly for [bb](https://github.com/get-bb/bb) and [Omarchy](https://omarchy.org). Before that I made iPhone games.
 
-**Selected projects**
+**Agent tooling**
 
-- [Omaherd](https://github.com/salemsayed/omaherd): Coding-agent status in the Omarchy bar. An inbox for local and remote HerdR sessions, with notifications when attention is needed and quick access to the right terminal pane.
-- [Omatender](https://github.com/salemsayed/omatender): A quieter Omarchy bar. A widget manager that tucks things away and brings them back when their status changes.
-- [OmaPrayers](https://github.com/salemsayed/omaprayers): Prayer times without a browser tab. An Arabic/English widget with offline calculations, a daily timetable, and optional reminders.
-- [Advisor](https://github.com/salemsayed/bb-plugin-advisor): Independent review for bb coding threads. A port of oh-my-pi’s advisor design, with persistent findings and rechecks.
+- [Advisor](https://github.com/salemsayed/bb-plugin-advisor): a second model that reviews bb coding threads before the final answer and tracks each finding until it is fixed. In the bb plugin marketplace.
+- [Omaherd](https://github.com/salemsayed/omaherd): your coding agents in the Omarchy bar: which HerdR session needs you and what each one is doing, local and remote.
+- [Omarchy Sync for bb](https://github.com/salemsayed/bb-plugin-omarchy): bb follows the active Omarchy theme: palette, light and dark mode, terminal colors and code accents. In the bb plugin marketplace.
 
-**Selected contributions**
+**Desktop widgets**
 
-- [Chuchu](https://github.com/jossephus/chuchu) · Encrypted SSH backups, Android local shells, tmux sessions, terminal tabs and input, Mosh recovery, and host-key verification.
-- [bb](https://github.com/get-bb/bb) · Linux desktop support, packaged browser automation, iPad keyboard and iOS touch fixes, Android clipboard images, and stranded-machine removal.
-- [Radar Sidebar](https://github.com/MacHatter1/bb-plugin-radar-sidebar) · Navigation rails, touch and trackpad swipe actions, readable thread titles, and keyboard navigation fixes.
-- [Strata](https://github.com/lgse/strata) · Native file previews, save-dialog suggestions, updates, and desktop integration fixes.
-- [Hylki](https://github.com/hyprlab/hylki) · Stalled IMAP recovery and faster message loading during background sync.
+- [OmaWarden](https://github.com/salemsayed/omawarden): Bitwarden in the Omarchy bar: instant search, timed clipboard copies, lock and sync.
+- [OmaPrayers](https://github.com/salemsayed/omaprayers): prayer times in Arabic or English, calculated offline, as a day strip or a timetable, with optional notifications.
+- [OmaOneDrive](https://github.com/salemsayed/omaonedrive): OneDrive service status, storage use and recent sync activity in the Omarchy bar.
+- [Omatender](https://github.com/salemsayed/omatender): tucks Omarchy bar widgets behind one mark and slides them out when their status changes.
+- [CodexBar Meter](https://github.com/noctalia-dev/community-plugins/tree/main/codexbar-meter): usage limits for every provider CodexBar tracks, in the Noctalia bar. Published in Noctalia's community plugins.
+- [Niri Active Workspace](https://github.com/noctalia-dev/community-plugins/tree/main/niri-active-workspace): a Noctalia bar widget that shows only the niri workspace you are on.
 
-Also contributed [Noctalia widgets](https://github.com/noctalia-dev/community-plugins/pull/243), [iOS background downloads](https://github.com/bricks-soft/cap-downloader/pull/2), [Pi agent tooling](https://github.com/burggraf/pi-teams/pull/7), and [mobile swipe controls for Composer Predictions](https://github.com/MacHatter1/bb-plugin-composer-predictions/pull/6).
+**Upstream contributions**
 
-**More projects**
+- [bb](https://github.com/get-bb/bb/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): the Linux desktop build, Linux notification and browser automation fixes, iPad Magic Keyboard and iOS touch fixes, Android clipboard images, stranded-machine removal and a faster PWA boot.
+- [Chuchu](https://github.com/jossephus/chuchu/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): Mosh session recovery, reliable SFTP, host-key verification, tmux sessions, terminal tabs, local shells and encrypted SSH backups for the Android SSH client.
+- [Rune](https://github.com/anomalyco/rune/pull/40): Linux apps follow the desktop's light or dark preference.
+- [Hokum](https://github.com/anomalyco/hokum/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): app icons found the way desktops find them, desktop text scaling, and a notification ID fix.
+- [Strata](https://github.com/lgse/strata/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): previews that follow native file selection, Qt save-dialog name suggestions and an install path fix.
+- [Hylki](https://github.com/hyprlab/hylki/pulls?q=is%3Apr+author%3Asalemsayed): timeouts for stalled IMAP commands and less background work before messages load, shipped in the 1.43 betas.
+- [Codex Desktop for Linux](https://github.com/ilysenko/codex-desktop-linux/pull/501): Chrome Beta plugin integration on Linux.
+- [Radar Sidebar](https://github.com/MacHatter1/bb-plugin-radar-sidebar/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): a navigation rail, swipe actions on thread rows and two-line thread titles for this bb sidebar plugin.
 
-[OneDrive sync](https://github.com/salemsayed/omaonedrive) · [Bitwarden widget](https://github.com/salemsayed/omawarden) · [Omarchy theme sync for bb](https://github.com/salemsayed/bb-plugin-omarchy)
+Also merged: [mobile swipe-to-accept for Composer Predictions](https://github.com/MacHatter1/bb-plugin-composer-predictions/pull/6), [tmux pane targeting for pi-teams](https://github.com/burggraf/pi-teams/pull/7), [Tesla China endpoints for omarchy-tesla](https://github.com/jankeesvw/omarchy-tesla/pull/5) and [a font size setting for Omapager](https://github.com/omacom/omapager/pull/5).
 
-📍 Egypt · 𝕏 [@salemsayed](https://x.com/salemsayed)
+**Earlier: iPhone games (2010)**
+
+- [Connect4](https://github.com/salemsayed/Connect4-iPhone): Connect Four for iPhone, built with Cocos2d.
+- [iTarneeb](https://github.com/salemsayed/iTarneeb): the Tarneeb card game for iPhone.
+
+Find me on X: [@salemsayed](https://x.com/salemsayed)
