@@ -19,7 +19,7 @@ I build agent tooling and Linux desktop widgets, mostly for [bb](https://github.
 
 **Upstream contributions**
 
-- [bb](https://github.com/get-bb/bb/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): the Linux desktop build, Linux notification and browser automation fixes, iPad Magic Keyboard and iOS touch fixes, Android clipboard images, stranded-machine removal and a faster PWA boot.
+- [bb](https://github.com/get-bb/bb/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): the Linux desktop build, Linux notification and browser automation fixes, iPad Magic Keyboard and iOS touch fixes, Android clipboard images, stranded-machine removal, a faster PWA boot, and plugin SDK Markdown that renders plugin code blocks and directives like a chat message.
 - [Chuchu](https://github.com/jossephus/chuchu/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): Mosh session recovery, reliable SFTP, host-key verification, tmux sessions, terminal tabs, local shells and encrypted SSH backups for the Android SSH client.
 - [Rune](https://github.com/anomalyco/rune/pull/40): Linux apps follow the desktop's light or dark preference.
 - [Hokum](https://github.com/anomalyco/hokum/pulls?q=is%3Apr+author%3Asalemsayed+is%3Amerged): app icons found the way desktops find them, desktop text scaling, and a notification ID fix.
